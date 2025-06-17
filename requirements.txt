@@ -1,0 +1,4 @@
+flask
+mss
+requests
+pytest
